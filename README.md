@@ -12,4 +12,4 @@ To switch between youtube and real time, change the function call in "detection"
 
 
 Output from YouTube:
-![alt text](https://github.com/pulkitnarula13/face_detection/blob/master/youtube_output.JPG)
+![alt text](https://github.com/pulkitnarula13/face-detection/blob/master/youtube-output.JPG)
